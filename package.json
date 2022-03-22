@@ -1,0 +1,28 @@
+{
+  "name": "projeto_pokedex_c011_m2",
+  "version": "1.0.0",
+  "description": "projeto-pokédex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joabesued/Projeto_pokedex_C011_M2.git"
+  },
+  "author": "joabesueD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joabesued/Projeto_pokedex_C011_M2/issues"
+  },
+  "homepage": "https://github.com/Joabesued/Projeto_pokedex_C011_M2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
